@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ats-business-hub.github.io/container-hanbai/sitemap.xml
